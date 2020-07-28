@@ -35,7 +35,9 @@
 
 </div>
 
-## ❤ build stuff - Software Engineer & Enthusiast!
+## 👦 Junhyuk Choi - 최준혁
+
+build stuff - Software Engineer & Enthusiast!
 
 - 👨‍💻 I try to new technology
 - I love minimalism
