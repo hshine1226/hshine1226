@@ -39,5 +39,5 @@
 
 build stuff - Software Engineer & Enthusiast!
 
-- 👨‍💻 I try to new technology
+- 👨‍💻 I try to get new technology
 - I love minimalism
