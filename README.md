@@ -6,7 +6,7 @@
 
 <div align=center>
   
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://medium.com/@hshine1226)](https://medium.com/@hshine1226) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyuk-choi-2814071aa/)](https://www.linkedin.com/in/junhyuk-choi-2814071aa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hshine1226@gmail.com)](mailto:hshine1226@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://medium.com/@hshine1226)](https://medium.com/@hshine1226) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junhyuk-choi-2814071aa/)](https://www.linkedin.com/in/junhyuk-choi-2814071aa/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junhyuk.dev.outlook.kr)](mailto:junhyuk.dev.outlook.kr)
 
 </div>
 
