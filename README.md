@@ -25,8 +25,12 @@
 <code><img height="25" src="https://user-images.githubusercontent.com/31975706/111998418-52aaa080-8b5f-11eb-889f-ca72d5357b0e.png"></code> <!--Postgresql-->
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288382-aa71dd00-cd2e-11ea-8fc2-a1f7ae93de63.png"></code> <!--React-->
 <code><img height="25" src="https://user-images.githubusercontent.com/31975706/111998874-c8af0780-8b5f-11eb-8e14-bad4b5d1030c.png"></code> <!--Docker-->
-  <code><img height="25" src="https://user-images.githubusercontent.com/31975706/112001500-5e4b9680-8b62-11eb-86b8-0fa19d707251.png"></code> <!--GCP-->
+<code><img height="25" src="https://user-images.githubusercontent.com/31975706/112001500-5e4b9680-8b62-11eb-86b8-0fa19d707251.png"></code> <!--GCP-->
+<code><img height="25" src="https://user-images.githubusercontent.com/31975706/120637402-d3641200-c4a9-11eb-83db-fd2f5f8f3353.png"></code> <!--Jenkins-->
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> <!--Terminal-->
+
+
+
 </div>
 
 <div align=center>
