@@ -17,7 +17,8 @@
 </div>
 
 <div align=center>
-<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code> <!--Javascript-->
+<code><img height="25" src="https://user-images.githubusercontent.com/47877911/88287732-af825c80-cd2d-11ea-9a56-bf85549e3fc4.png"></code> <!--JavaScript-->
+<code><img height="25" src="https://user-images.githubusercontent.com/31975706/125539966-366c5fde-5861-418c-8665-54fb0cbda823.png"></code> <!--TypeScript-->
 <code><img height="25" src="https://user-images.githubusercontent.com/47877911/88288767-33891400-cd2f-11ea-81cd-b6a089ab4a24.png"></code> <!--ES6-->
 <code><img height="25" src="https://user-images.githubusercontent.com/31975706/112001023-e1b8b800-8b61-11eb-9608-d8a77c360028.png"></code> <!--NodeJS--> 
 <code><img height="25" src="https://user-images.githubusercontent.com/31975706/122644444-213a7480-d150-11eb-921d-a5d238f7c6b7.png"></code> <!--NestJS--> 
