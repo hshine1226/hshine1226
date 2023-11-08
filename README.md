@@ -44,6 +44,3 @@
 ## 👦 Junhyuk Choi - 최준혁
 
 Build Stuff - Software Engineer & Enthusiast!
-
-- 👨‍💻 I try to get new technology
-- I love minimalism
